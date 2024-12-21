@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solocoder9&label=Profile%20views&color=0e75b6&style=flat" alt="solocoder9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/solocoder9" target="blank"><img src="https://img.shields.io/twitter/follow/solocoder9?logo=twitter&style=for-the-badge.gif" alt="solocoder9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/solocoder9" target="blank"><img src="https://img.shields.io/twitter/follow/solocoder9?logo=twitter&style=for-the-badge" alt="solocoder9" /></a> </p>
 
 - 🌱 I’m currently learning **Spring**
 
